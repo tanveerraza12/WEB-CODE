@@ -1,3 +1,3 @@
 # WEB-CODE
 few website codes
-for practice
+for practice.
